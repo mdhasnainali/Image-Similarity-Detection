@@ -72,8 +72,8 @@ project-root/
 ### Setup
 ```bash
 # Clone the repository (if applicable)
-# git clone <repository-url>
-# cd <repository-directory>
+# git clone git@github.com:mdhasnainali/Image-Similarity-Detection.git
+# cd Image-Similarity-Detection
 
 # Install dependencies
 pip install -r requirements.txt
