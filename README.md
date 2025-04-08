@@ -43,7 +43,7 @@ This project delivers an advanced system for detecting similar or duplicate imag
 ```plaintext
 project-root/
 ├── data/                       # Directory for image datasets
-├── extract_features.ipy         # Script for feature extraction
+├── extract_features.ipynb      # Notebook for feature extraction
 ├── image_similarity.ipynb      # Notebook for similarity search experiments
 ├── visualize_similarity.ipynb  # Notebook for visual analysis and clustering
 ├── pickle/                     # Directory for serialized features and metadata
