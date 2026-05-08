@@ -1,0 +1,8 @@
+torch==2.6.0
+torchvision==0.21.0
+Pillow==11.1.0
+numpy==1.26.4
+faiss-cpu==1.10.0
+scikit-learn==1.6.1
+matplotlib==3.10.1
+tqdm==4.67.1
